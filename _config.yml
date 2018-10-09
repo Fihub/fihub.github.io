@@ -88,5 +88,5 @@ exclude:
  # something new
  collections:
    connecttech2018:
-       output: true
+     output: true
 
