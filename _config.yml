@@ -89,5 +89,6 @@ exclude:
  collections:
    connecttech2018:
      output: true
-     title: What I learned here 10/09/2018
+     title: "What I learned here"
+     
 
